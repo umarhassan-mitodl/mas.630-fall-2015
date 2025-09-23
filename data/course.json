@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "07218976-0bf2-bbb4-f593-2bae81c91c07",
+  "instructors": {
+    "content": [
+      "b2acb90b-48a3-6a34-158c-7fcb12dab8d6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "40aae8fa-b850-8b45-9b0d-960272bdca57",
+    "website": "mas-630-affective-computing-fall-2015"
+  },
+  "course_title": "Affective Computing",
+  "course_description": "This course instructs students on how to develop technologies that help people measure and communicate emotion, that respectfully read and that intelligently respond to emotion, and have internal mechanisms inspired by the useful roles emotions play.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.630",
+  "course_image_thumbnail": {
+    "content": "dafc18e0-1809-57a8-f3d4-b4fffa35bcc5",
+    "website": "mas-630-affective-computing-fall-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "2d6fefb7-70c4-4b24-b93a-b15b6628c665",
+  "site_short_id": "mas.630-fall-2015",
+  "site_url_path": "courses/mas-630-affective-computing-fall-2015",
+  "title": "Course Metadata"
+}
