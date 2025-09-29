@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides guidelines on giving a presentation for the final
   project of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

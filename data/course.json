@@ -35,6 +35,7 @@
     "website": "mas-630-affective-computing-fall-2015"
   },
   "course_title": "Affective Computing",
+  "hide_download": true,
   "course_description": "This course instructs students on how to develop technologies that help people measure and communicate emotion, that respectfully read and that intelligently respond to emotion, and have internal mechanisms inspired by the useful roles emotions play.\n",
   "department_numbers": [
     "MAS"
@@ -45,6 +46,7 @@
     "content": "dafc18e0-1809-57a8-f3d4-b4fffa35bcc5",
     "website": "mas-630-affective-computing-fall-2015"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

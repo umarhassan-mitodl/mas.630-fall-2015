@@ -74,7 +74,7 @@ Assignment 7 due two days prior to Session 8
 
 Stress Recognition and Relief
 
-*Guest*: {{% resource_link "9b7661c8-af3b-4d99-aed5-2a4257854ab1" "Dr. Javier Hernandez" %}}, Research Scientist at MIT Media Lab
+*Guest*: [Dr. Javier Hernandez](http://javierhr.com/), Research Scientist at MIT Media Lab
 
 {{< tdclose >}}{{< tdopen >}}
 
