@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on the final project for the course,
   including project proposals, presentations, written reports, examples of student
   work, and policies for projects that involve research on human participants.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -17,11 +15,11 @@ You will be required to complete a project for the course. Initial project ideas
 COUHES for Class Projects (for MIT students)
 --------------------------------------------
 
-All projects that involve research on human participants must have the prior approval of the MIT [Committee on the Use of Humans as Experimental Subjects](https://couhes.mit.edu/) (COUHES). MIT students were also required to pass the "[CITI Certification](https://couhes.mit.edu/training-research-involving-human-subjects)".
+All projects that involve research on human participants must have the prior approval of the MIT {{% resource_link "36a57620-2046-4f1b-8c59-e681ae1f3223" "Committee on the Use of Humans as Experimental Subjects" %}} (COUHES). MIT students were also required to pass the "{{% resource_link "ff9a9643-30d0-4137-9f67-5d9bd86e02a8" "CITI Certification" %}}".
 
 Project Examples
 ----------------
 
-*   [Fall 2013](http://courses.media.mit.edu/2013fall/mas630/13.projects/finalprojects.html)
-*   [Fall 2011](http://courses.media.mit.edu/2011fall/mas630/11.projects/)
-*   [Spring 2005](http://courses.media.mit.edu/2005spring/mas630/05.projects/)
+*   {{% resource_link "6df48093-5ba8-4e17-bef9-f1a73d1910cb" "Fall 2013" %}}
+*   {{% resource_link "1747c2d2-b84e-45e1-991c-07efcbde42df" "Fall 2011" %}}
+*   {{% resource_link "fdc869ea-c1c2-4011-81f8-bc65fc894062" "Spring 2005" %}}
